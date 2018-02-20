@@ -1,0 +1,15 @@
+// Place all the styles related to the Home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.jumbotron{
+  position: relative;
+  z-index:-101;
+}
+
+#video-background {
+  position: fixed;
+  overflow: hidden;
+  z-index: -100;
+  width:100%;
+}
